@@ -1,1 +1,1 @@
-Here's a landing page we made in Clever Programmer's 5-Day Bootcamp.
+Here's a landing page I made during 2nd day in Clever Programmer's 5-Day Bootcamp.
